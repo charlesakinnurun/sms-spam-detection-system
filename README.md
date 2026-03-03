@@ -1,7 +1,7 @@
 <h1 align="center">Spam Filtering Engine</h1>
 
 
-![sms-header](/assets/sms_header.jpg)
+<!--![sms-header](/assets/sms_header.jpg)-->
 
 <!--This project implements an SMS spam detection system using machine learning techniques. The core logic and experiments are documented in `model.ipynb`.-->
 <!--
