@@ -3,7 +3,7 @@
 
 <!-- ![sms-header](/assets/sms_header.jpg) -->
 
-![sms-header](/assets/header.png)
+![sms-header](/assets/sms_header_2.png)
 
 <!--This project implements an SMS spam detection system using machine learning techniques. The core logic and experiments are documented in `model.ipynb`.-->
 <!--
