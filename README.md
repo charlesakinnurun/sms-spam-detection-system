@@ -23,6 +23,11 @@ Engineered a machine learning workflow to detect and classify sms messages as ha
 
 <p>What I learned</p>
 
+- How to build reproducible NLP pipelines that turn raw text into actionable insights using feature engineering (TF‑IDF), end-to-end ML workflows, model evaluation (precision, recall, F1, confusion matrices), and best practices for real-world text classification tasks.
+
+
+
+<!--
 - NLP can turn raw text into actionable decisions through cleaning, tokenisation, and representation.
 
 - Feature engineering (e.g., TF‑IDF vectorisation) converts words into numerical features that capture importance.
@@ -32,10 +37,16 @@ Engineered a machine learning workflow to detect and classify sms messages as ha
 
 - Writing structured, reproducible code by separating concerns (data_loader, preprocessor, trainer).
 
-- Gained skills applicable to real-world text classification tasks like filtering unwanted messages.
+- Gained skills applicable to real-world text classification tasks like filtering unwanted messages.-->
 
 <p> What I did</p>
 
+- Engineered a modular Python SMS classification pipeline handling data loading, cleaning, vectorising, model training, evaluation, and prediction, including label encoding and saving the best model with TF‑IDF vectoriser using joblib.
+
+- Created visualizations (message lengths, class balance, model performance) and documented the workflow in README.md and a Jupyter notebook for reproducibility and future use.
+
+
+<!--
 - Engineered a modular Python pipeline for SMS data: loading, cleaning, vectorising, training, evaluating, and predicting.
 
 - Processed the dataset (spam.csv), handled inconsistencies, and encoded labels.
@@ -46,6 +57,7 @@ Engineered a machine learning workflow to detect and classify sms messages as ha
 
 - Documented workflow in README.md and an exploratory Jupyter notebook (model.ipynb) for reproducibility and future use.
 
+-->
 
 
 
