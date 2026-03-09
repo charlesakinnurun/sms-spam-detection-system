@@ -1,15 +1,67 @@
+![sms-header](/assets/sms_header_2.png)
+
 <h1 align="center">Spam Filtering Engine</h1>
 
 
 <!-- ![sms-header](/assets/sms_header.jpg) -->
 
-![sms-header](/assets/sms_header_2.png)
+
 
 <!--This project implements an SMS spam detection system using machine learning techniques. The core logic and experiments are documented in `model.ipynb`.-->
 <!--
 ## Overview
 
 Engineered a machine learning workflow to detect and classify sms messages as ham or spam. The workflow includes data loading, preprocessing, feature extraction, model training, evaluation, and prediction.-->
+
+
+
+
+
+
+
+
+
+<p>What I learned</p>
+
+- NLP can turn raw text into actionable decisions through cleaning, tokenisation, and representation.
+
+- Feature engineering (e.g., TF‑IDF vectorisation) converts words into numerical features that capture importance.
+- Learned the full ML workflow: data loading, splitting, training, persisting, and re-using models.
+
+- Interpreting results using precision, recall, F1-score, and confusion matrices to understand and improve classifiers.
+
+- Writing structured, reproducible code by separating concerns (data_loader, preprocessor, trainer).
+
+- Gained skills applicable to real-world text classification tasks like filtering unwanted messages.
+
+<p> What I did</p>
+
+- Engineered a modular Python pipeline for SMS data: loading, cleaning, vectorising, training, evaluating, and predicting.
+
+- Processed the dataset (spam.csv), handled inconsistencies, and encoded labels.
+
+- Trained and tested models (e.g., logistic regression) and saved the best classifier with TF‑IDF vectoriser and label encoder using joblib.
+
+- Created visualisations: message length distributions, class balance, and model performance plots via visualiser.py.
+
+- Documented workflow in README.md and an exploratory Jupyter notebook (model.ipynb) for reproducibility and future use.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 <h2 align="center">Workflow</h2>
