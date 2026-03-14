@@ -1,8 +1,14 @@
-<h1 align="center">Spam Filtering Engine</h1>
+
+<!--![sms-header](/assets/sms_header_2.png)-->
+
+![](/assets/spam_header.png)
+
+
+<h1 align="center">SMS Spam Detection System</h1>
 
 
 
-![sms-header](/assets/sms_header_2.png)
+
 
 
 
