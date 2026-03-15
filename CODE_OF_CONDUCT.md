@@ -2,7 +2,7 @@
 
 [![Code of Conduct](https://img.shields.io/badge/Code%20of%20Conduct-Open‑Source-blue.svg?style=for-the-badge)](CODE_OF_CONDUCT.md)
 
-This Code of Conduct applies to all spaces in the **SMS spam** project — including code, documentation, issue trackers, mailing lists, chat channels, wikis, blogs, social media, and any other communication channels used by the project.
+This Code of Conduct applies to all spaces in the **Spam Detection System** project — including code, documentation, issue trackers, mailing lists, chat channels, wikis, blogs, social media, and any other communication channels used by the project.
 
 ---
 
@@ -52,7 +52,7 @@ This Code of Conduct is based on community standards for open source projects an
 
 [![Code of Conduct](https://img.shields.io/badge/Code%20of%20Conduct-Open‑Source-blue.svg?style=for-the-badge)](CODE_OF_CONDUCT.md)
 
-This Code of Conduct applies to all spaces in the **SMS spam** project — including code, documentation, issue trackers, mailing lists, chat channels, wikis, blogs, social media, and any other communication channels used by the project.
+This Code of Conduct applies to all spaces in the **Spam Detection System** project — including code, documentation, issue trackers, mailing lists, chat channels, wikis, blogs, social media, and any other communication channels used by the project.
 
 ---
 
