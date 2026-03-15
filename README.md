@@ -1,8 +1,10 @@
 
 <!--![sms-header](/assets/sms_header_2.png)-->
 
-![](/assets/spam_header.png)
+<!-- ![](/assets/spam_header.png) -->
 
+
+![header](/assets/image_header.webp)
 
 <h1 align="center">SMS Spam Detection System</h1>
 
