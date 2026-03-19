@@ -30,16 +30,16 @@ Engineered a machine learning workflow to detect and classify sms messages as ha
 
 
 
+<!--
 
 
-
-<p>What I learned</p>
+<p>What I learned</p> -->
 
 <!-- - How to build reproducible NLP pipelines that turn raw text into actionable insights using feature engineering (TF‑IDF), end-to-end ML workflows, model evaluation (precision, recall, F1, confusion matrices), and best practices for real-world text classification tasks.-->
-
+<!--
 - How natural language processing classifies data into ham or spam messages.
 
-
+-->
 
 <!--
 - NLP can turn raw text into actionable decisions through cleaning, tokenisation, and representation.
